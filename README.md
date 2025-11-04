@@ -1,23 +1,26 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 # Cardiovascular Disease Risk Assessment System
+
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 A professional clinical decision support tool for predicting heart disease risk based on established clinical parameters.
 
-## Overview
+## 🚀 Live Demo
 
-This Streamlit application provides healthcare professionals with an evidence-based tool for assessing cardiovascular disease risk using multiple clinical factors including demographics, vital signs, laboratory values, and medical history.
+**Try the application now:** [Heart Disease Prediction System](https://heart-disease-prediction-ptwrrgfy5krsbhgds8cpne.streamlit.app/)
 
-## Features
+The live demo is hosted on Streamlit Cloud and ready to use immediately.
 
-- **Clinical Risk Assessment**: Evidence-based cardiovascular risk prediction
-- **Professional Interface**: Medical-grade user experience
-- **Visual Analytics**: Interactive charts and risk visualizations
-- **Clinical Recommendations**: Personalized lifestyle and monitoring guidance
-- **Data Privacy**: All calculations performed locally
+## 📋 Local Development
 
-## Installation
+If you want to run this project locally:
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
+### Prerequisites
+- Python 3.8 or higher
+- pip (Python package manager)
+
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/heart-disease-prediction.git
+   cd heart-disease-prediction
