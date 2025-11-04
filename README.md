@@ -1,19 +1,23 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+# Cardiovascular Disease Risk Assessment System
 
-### How to run it on your own machine
+A professional clinical decision support tool for predicting heart disease risk based on established clinical parameters.
 
-1. Install the requirements
+## Overview
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+This Streamlit application provides healthcare professionals with an evidence-based tool for assessing cardiovascular disease risk using multiple clinical factors including demographics, vital signs, laboratory values, and medical history.
 
-2. Run the app
+## Features
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+- **Clinical Risk Assessment**: Evidence-based cardiovascular risk prediction
+- **Professional Interface**: Medical-grade user experience
+- **Visual Analytics**: Interactive charts and risk visualizations
+- **Clinical Recommendations**: Personalized lifestyle and monitoring guidance
+- **Data Privacy**: All calculations performed locally
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/heart-disease-prediction.git
+cd heart-disease-prediction
